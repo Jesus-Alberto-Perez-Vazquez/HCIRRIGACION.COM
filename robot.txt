@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://tusitio.com/sitemap.xml
+Sitemap: https://jesus-alberto-perez-vazquez.github.io/hcirrigacion.github.io/sitemap.xml
+
